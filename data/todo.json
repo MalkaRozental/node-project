@@ -1,0 +1,20 @@
+{
+    "data":[
+        {
+            "text": "home work",
+            "checked": false
+        },   
+        {
+            "text": "shopping",
+            "checked": false
+        },
+        {
+            "text": "buy milk",
+            "checked": true
+        },
+        {
+            "text": "visit friend",
+            "checked": false
+        }     
+    ] 
+}

@@ -1,0 +1,8 @@
+type Query{
+    Todos: [Todo]
+}
+
+type Todo {
+    text : String!
+    checked: Boolean!
+}
